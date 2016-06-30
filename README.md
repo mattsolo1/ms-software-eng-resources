@@ -110,3 +110,4 @@
 + [Exploratory Data Analysis with R (Pluralsight course, 2h 30m)](https://app.pluralsight.com/library/courses/r-data-analysis/table-of-contents)
 + [Raspberry Pi Home Server (Pluralsight course, 4h 40m)](https://app.pluralsight.com/library/courses/raspberry-pi-home-server/table-of-contents)
 + [The Future of Technology Careers, (Pluralsight course, 2h 23m)](https://app.pluralsight.com/library/courses/future-technology-careers/table-of-contents)
++ [Changing your career direction, (Pluralsight course, 0h 53m)](https://app.pluralsight.com/library/courses/changeitup/description)
