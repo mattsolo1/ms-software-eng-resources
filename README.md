@@ -117,7 +117,7 @@
 
 + [Exploring Personal Genomics, Dudley/Karczewski (Book)](https://www.amazon.com/Exploring-Personal-Genomics-Joel-Dudley/dp/0199644497/ref=sr_1_1?s=books&ie=UTF8&qid=1467317610&sr=1-1&keywords=exploring+personal+genomics)
 + [Universal Principles of Design, William Lidwell (Book)](https://new.vk.com/doc15891431_152053149?hash=b316e1c6fc309bbb16&dl=28aabb49a7217e1962)
-+ [Browse the Building React Applications with Idiomatic Redux (egghead.io course).](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
++ [Building React Applications with Idiomatic Redux (egghead.io course).](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
 
 ### Up next
 
