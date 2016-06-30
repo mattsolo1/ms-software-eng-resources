@@ -49,6 +49,7 @@
 + [Asynchronous Redux (walk-through using reddit API)](http://redux.js.org/docs/advanced/AsyncActions.html)
 + [Unit testing with Redux](http://redux.js.org/docs/recipes/WritingTests.html)
 + [3REE (example application)](https://github.com/GordyD/3ree)
++ [Soundcloud Client built w/ React/Redux (example application)](https://github.com/andrewngu/sound-redux)
 + [Redux DevTools](https://github.com/gaearon/redux-devtools/blob/master/docs/Walkthrough.md)
 
 ### Databases, REST
@@ -82,7 +83,7 @@
 ### Docker
 
 + [PyCon Solomon Hykes shows docker to the public for the first time (YouTube)](https://www.youtube.com/watch?v=wW9CAH9nSLs)
-+ [Docker and Containers: The Big Picture (Pluralsight course, 1h 47m)](https://app.pluralsight.com/library/courses/encapsulation-solid/table-of-contents)
++ [Docker and Containers: The Big Picture (Pluralsight course, 1h 47m)](https://app.pluralsight.com/library/courses/docker-containers-big-picture/table-of-contents)
 + [Docker Deep Dive (Pluralsight course, 5h 38m)](https://app.pluralsight.com/library/courses/docker-deep-dive/table-of-contents)
 + [Docker for Web Developers (Pluralsight course, 5h 19m)](https://app.pluralsight.com/library/courses/docker-web-development/table-of-contents)
 + [Integrating Docker with DevOps Automated Workflows (Pluralsight course, 1h 1m)](https://app.pluralsight.com/library/courses/integrating-docker-with-devops-automated-workflows/table-of-contents)
@@ -111,3 +112,13 @@
 + [Raspberry Pi Home Server (Pluralsight course, 4h 40m)](https://app.pluralsight.com/library/courses/raspberry-pi-home-server/table-of-contents)
 + [The Future of Technology Careers, (Pluralsight course, 2h 23m)](https://app.pluralsight.com/library/courses/future-technology-careers/table-of-contents)
 + [Changing your career direction, (Pluralsight course, 0h 53m)](https://app.pluralsight.com/library/courses/changeitup/description)
+
+### Currently learning:
+
++ [Exploring Personal Genomics, Dudley/Karczewski (Book)](https://www.amazon.com/Exploring-Personal-Genomics-Joel-Dudley/dp/0199644497/ref=sr_1_1?s=books&ie=UTF8&qid=1467317610&sr=1-1&keywords=exploring+personal+genomics)
++ [Universal Principles of Design, William Lidwell (Book)](https://new.vk.com/doc15891431_152053149?hash=b316e1c6fc309bbb16&dl=28aabb49a7217e1962)
++ [Browse the Building React Applications with Idiomatic Redux (egghead.io course).](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
+
+### Up next
+
++ [Visualization Analysis and Design, Tamara Munzner (Book)](https://www.amazon.com/Visualization-Analysis-Design-AK-Peters/dp/1466508914/ref=sr_1_1?ie=UTF8&qid=1467317433&sr=8-1&keywords=Visualization+Analysis+and+Design)
