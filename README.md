@@ -19,7 +19,7 @@
 + [jQuery: Getting Started (Pluralsight course, 1h 40m)](https://app.pluralsight.com/library/courses/jquery-getting-started/table-of-contents)
 + [Electron Playbook (Pluralsight course, 1h 38m)](https://app.pluralsight.com/library/courses/electron-playbook/table-of-contents)
 + [Yeoman Fundamentals (Pluralsight course, 2h 32m)](https://app.pluralsight.com/library/courses/yeoman-fundamentals/table-of-contents)
-+ [Node.js and the Internet of Things Using Intel Edison](https://app.pluralsight.com/library/courses/nodejs-internet-of-things-intel-edison/table-of-contents)
++ [Node.js and the Internet of Things Using Intel Edison (Pluralsight course, 4h 1m)](https://app.pluralsight.com/library/courses/nodejs-internet-of-things-intel-edison/table-of-contents)
 + [JavaScript Build Automation With Gulp.js (Pluralsight course, 4h 52m)](https://app.pluralsight.com/library/courses/javascript-build-automation-gulpjs/table-of-contents)
 + [Introduction to npm as a Build Tool (Pluralsight course, 1h 37m)](https://app.pluralsight.com/library/courses/npm-build-tool-introduction/table-of-contents)
 + [Static Web Applications (Pluralsight course, 2h 40m)](https://app.pluralsight.com/library/courses/web-applications-without-server/table-of-contents)
@@ -29,8 +29,10 @@
 
 + [Building Applications with React and Flux (Pluralsight course, 5h 8m)](https://app.pluralsight.com/library/courses/react-flux-building-applications/table-of-contents)
 + [React.js: Getting Started (Pluralsight course, 1h 29m)](https://app.pluralsight.com/library/courses/react-js-getting-started/table-of-contents)
++ [React.js on Rails: Building a Full Stack Web App](https://app.pluralsight.com/library/courses/reactjs-on-rails-building-full-stack-web-app/table-of-contents)
 + [Styling React Components (Pluralsight course, 1h 29m)](https://app.pluralsight.com/library/courses/react-styling-components/table-of-contents)
 + [React Native (Pluralsight course, 1h 59m)](https://app.pluralsight.com/library/courses/build-ios-apps-react-native/table-of-contents)
++ [Build Cross Platform React Native Apps with Exponent and Redux,  (Pluralsight course, 1h 59m)](https://app.pluralsight.com/library/courses/build-ios-apps-react-native/table-of-contents)
 + [Building Data-driven React Applications with Relay, GraphQL, and Flux (Pluralsight course, 3h 9m)](https://app.pluralsight.com/library/courses/react-apps-with-relay-graphql-flux/table-of-contents)
 + [Building a Real-time App with React, Flux, Webpack, and Firebase (Pluralsight course, 2h 51m)](https://app.pluralsight.com/library/courses/build-isomorphic-app-react-flux-webpack-firebase/table-of-contents)
 + [CS 294-101 01 Pete Hunt: React vs The World,  (YouTube)](https://www.youtube.com/watch?v=MC376f3QWYw)
@@ -64,6 +66,7 @@
 
 + [Front-end Formations (Codeschool course)](https://www.codeschool.com/courses/front-end-formations)
 + [CSS Flexbox Fundamentals (Pluralsight course, 1h 28m)](https://app.pluralsight.com/library/courses/css-flexbox-fundamentals-2319/table-of-contents)
++ [Modern Web Layout with Flexbox and CSS Grid, (Pluralsight course, 1h 14m)](https://app.pluralsight.com/library/courses/modern-web-layout-flexbox-css-grid/table-of-contents)
 + [A Complete Guide to Flexbox, (Article)](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 + [Speeding up Your CSS Workflow with Sass and Compass (Pluralsight course, 2h 4m)](https://app.pluralsight.com/library/courses/speeding-up-css-workflow-sass-compass-2342/table-of-contents)
 + [SVG Fundamentals (Pluralsight course, 1h 29m)](https://app.pluralsight.com/library/courses/svg-fundamentals/table-of-contents)
@@ -110,8 +113,10 @@
 + [Linux administration with sed and awk (Pluralsight course, 3h 59m)](https://app.pluralsight.com/library/courses/linux-administration-sed-awk/table-of-contents)
 + [Exploratory Data Analysis with R (Pluralsight course, 2h 30m)](https://app.pluralsight.com/library/courses/r-data-analysis/table-of-contents)
 + [Raspberry Pi Home Server (Pluralsight course, 4h 40m)](https://app.pluralsight.com/library/courses/raspberry-pi-home-server/table-of-contents)
++ [Agile for One](https://app.pluralsight.com/library/courses/agile-for-one/table-of-contents)
 + [The Future of Technology Careers, (Pluralsight course, 2h 23m)](https://app.pluralsight.com/library/courses/future-technology-careers/table-of-contents)
 + [Changing your career direction, (Pluralsight course, 0h 53m)](https://app.pluralsight.com/library/courses/changeitup/description)
++ [On Polyglot Programming, (Pluralsight course, 1h 7m) ](https://app.pluralsight.com/library/courses/pluralsight-originals-polyglot-programming/table-of-contents)
 
 ### Currently learning:
 
