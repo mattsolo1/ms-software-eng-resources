@@ -10,7 +10,7 @@
 + [You Don't Know JavaScript (Book)](https://github.com/getify/You-Dont-Know-JS)
 + [Professor Frisby's Mostly Adequate Guide To Functional Programming (Book)](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details)
 + [Philosophy of Ramda](http://fr.umio.us/the-philosophy-of-ramda/#composability)
-+ [Bob Pace Ramda.js tutorial (YouTube, 56m)](https://www.youtube.com/watch?v=digajAH_5IU)
++ [Bob Pace Ramda.js Tutorial (YouTube, 56m)](https://www.youtube.com/watch?v=digajAH_5IU)
 + [mpj's funfunfunction YouTube Channel](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 + [CoffeeScript Fundamentals (Pluralsight course, 1h 59m)](https://app.pluralsight.com/library/courses/coffeescript-fundamentals/table-of-contents)
 + [Babel: Getting started (Pluralsight course, 2h 3m)](https://app.pluralsight.com/library/courses/babel-get-started/table-of-contents)
@@ -23,7 +23,7 @@
 + [JavaScript Build Automation With Gulp.js (Pluralsight course, 4h 52m)](https://app.pluralsight.com/library/courses/javascript-build-automation-gulpjs/table-of-contents)
 + [Introduction to npm as a Build Tool (Pluralsight course, 1h 37m)](https://app.pluralsight.com/library/courses/npm-build-tool-introduction/table-of-contents)
 + [Static Web Applications (Pluralsight course, 2h 40m)](https://app.pluralsight.com/library/courses/web-applications-without-server/table-of-contents)
-+ [Angular tutorial (Google)](https://docs.angularjs.org/tutorial)
++ [Official Angular Tutorial (Google)](https://docs.angularjs.org/tutorial)
 
 ### React
 
@@ -38,7 +38,7 @@
 + [CS 294-101 01 Pete Hunt: React vs The World,  (YouTube)](https://www.youtube.com/watch?v=MC376f3QWYw)
 + [OSCON 2014: How Instagram.com Works; Pete Hunt (YouTube)](https://www.youtube.com/watch?v=VkTCL6Nqm6Y&feature=youtu.be)
 + [React.js Conf 2015 - Immutable Data and React (YouTube)](https://www.youtube.com/watch?v=I7IdS-PbEgI)
-+ [React elements and instances, Dan Abramov (Blog post)](https://medium.com/@dan_abramov/react-components-elements-and-instances-90800811f8ca#.3v5emfsgm)
++ [React Elements and Instances, Dan Abramov (Blog post)](https://medium.com/@dan_abramov/react-components-elements-and-instances-90800811f8ca#.3v5emfsgm)
 + [React Router Official Tutorial](https://github.com/reactjs/react-router-tutorial)
 + [Cheng Lou - The State of Animation in React at react-europe 2015 (YouTube)](https://www.youtube.com/watch?v=1tavDv5hXpo)
 + [React Motion (Blog post)](https://medium.com/@nashvail/a-gentle-introduction-to-react-motion-dc50dd9f2459#.tx203t36x)
@@ -72,8 +72,8 @@
 + [SVG Fundamentals (Pluralsight course, 1h 29m)](https://app.pluralsight.com/library/courses/svg-fundamentals/table-of-contents)
 + [D3.js Data Visualization Fundamentals (Pluralsight course, 4h 35m)](https://app.pluralsight.com/library/courses/d3js-data-visualization-fundamentals/table-of-contents)
 + [Crafting a Visual Identity in Illustrator CC (Pluralsight course, 1h 30m)](https://app.pluralsight.com/library/courses/illustrator-cc-crafting-visual-identity-2441/table-of-contents)
-+ [D3 and React - the future of charting components? (Blog post)](http://10consulting.com/2014/02/19/d3-plus-reactjs-for-charting/)
-+ [The case for CSS modules - Mark Dalgleish (YouTube)](https://www.youtube.com/watch?v=zR1lOuyQEt8)
++ [D3 and React - The Future of Charting Components? (Blog post)](http://10consulting.com/2014/02/19/d3-plus-reactjs-for-charting/)
++ [The Case for CSS modules - Mark Dalgleish (YouTube)](https://www.youtube.com/watch?v=zR1lOuyQEt8)
 + [The End of Global CSS (Blog post)](https://medium.com/seek-ui-engineering/the-end-of-global-css-90d2a4a06284#.j87z1jmyl)
 + [Introduction to PostCSS, (Smashing Magazine article)](https://www.smashingmagazine.com/2015/12/introduction-to-postcss/)
 
@@ -81,11 +81,11 @@
 
 + [Amazon Web Services (AWS) Fundamentals for System Administrators (Pluralsight course, 7h 19m)](https://app.pluralsight.com/library/courses/aws-system-admin-fundamentals/table-of-contents)
 + [AWS VPC Operations (Pluralsight course, 4h 32m)](https://app.pluralsight.com/library/courses/aws-vpc-operations/table-of-contents)
-+ [Mastering your own domain (Pluralsight course, 1h 58m)](https://app.pluralsight.com/library/courses/master-domain/table-of-contents)
++ [Mastering Your Own Domain (Pluralsight course, 1h 58m)](https://app.pluralsight.com/library/courses/master-domain/table-of-contents)
 
 ### Docker
 
-+ [PyCon Solomon Hykes shows docker to the public for the first time (YouTube)](https://www.youtube.com/watch?v=wW9CAH9nSLs)
++ [PyCon Solomon Hykes/Docker (YouTube)](https://www.youtube.com/watch?v=wW9CAH9nSLs)
 + [Docker and Containers: The Big Picture (Pluralsight course, 1h 47m)](https://app.pluralsight.com/library/courses/docker-containers-big-picture/table-of-contents)
 + [Docker Deep Dive (Pluralsight course, 5h 38m)](https://app.pluralsight.com/library/courses/docker-deep-dive/table-of-contents)
 + [Docker for Web Developers (Pluralsight course, 5h 19m)](https://app.pluralsight.com/library/courses/docker-web-development/table-of-contents)
@@ -104,18 +104,18 @@
 ### git
 
 + [Using GitFlow (Pluralsight course, 1h 4m)](https://app.pluralsight.com/library/courses/using-gitflow/table-of-contents)
-+ [How git works (Pluralsight course, 1h 48m)](https://app.pluralsight.com/library/courses/how-git-works/table-of-contents)
++ [How Git Works (Pluralsight course, 1h 48m)](https://app.pluralsight.com/library/courses/how-git-works/table-of-contents)
 
 ### Misc
 
 + [Haskell (Pluralsight course, 2h 57m)](https://app.pluralsight.com/library/courses/haskell-fundamentals-part1/table-of-contents)
-+ [Electronics fundamentals (Pluralsight course, 1h 56m)](https://app.pluralsight.com/library/courses/electronics-fundamentals/table-of-contents)
-+ [Linux administration with sed and awk (Pluralsight course, 3h 59m)](https://app.pluralsight.com/library/courses/linux-administration-sed-awk/table-of-contents)
++ [Electronics Fundamentals (Pluralsight course, 1h 56m)](https://app.pluralsight.com/library/courses/electronics-fundamentals/table-of-contents)
++ [Linux Administration With sed and awk (Pluralsight course, 3h 59m)](https://app.pluralsight.com/library/courses/linux-administration-sed-awk/table-of-contents)
 + [Exploratory Data Analysis with R (Pluralsight course, 2h 30m)](https://app.pluralsight.com/library/courses/r-data-analysis/table-of-contents)
 + [Raspberry Pi Home Server (Pluralsight course, 4h 40m)](https://app.pluralsight.com/library/courses/raspberry-pi-home-server/table-of-contents)
-+ [Agile for One](https://app.pluralsight.com/library/courses/agile-for-one/table-of-contents)
++ [Agile for One, (Pluralsight course, 1h 44m)](https://app.pluralsight.com/library/courses/agile-for-one/table-of-contents)
 + [The Future of Technology Careers, (Pluralsight course, 2h 23m)](https://app.pluralsight.com/library/courses/future-technology-careers/table-of-contents)
-+ [Changing your career direction, (Pluralsight course, 0h 53m)](https://app.pluralsight.com/library/courses/changeitup/description)
++ [Changing Career Direction, (Pluralsight course, 0h 53m)](https://app.pluralsight.com/library/courses/changeitup/description)
 + [On Polyglot Programming, (Pluralsight course, 1h 7m) ](https://app.pluralsight.com/library/courses/pluralsight-originals-polyglot-programming/table-of-contents)
 
 ### Currently learning:
