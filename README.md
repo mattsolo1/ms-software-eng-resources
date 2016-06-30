@@ -55,10 +55,10 @@
 ### Databases, REST
 
 + [Building Blocks of Express.js, (Codeschool course)](https://www.codeschool.com/courses/building-blocks-of-express-js)
-+ [MongoDB: The Definitive Guide (Book)](http://usuaris.tinet.cat/bertolin/pdfs/mongodb_%20the%20definitive%20guide%20-%20kristina%20chodorow_1401.pdf)
++ [MongoDB: The Definitive Guide, Kristina Chodorow (Book)](http://usuaris.tinet.cat/bertolin/pdfs/mongodb_%20the%20definitive%20guide%20-%20kristina%20chodorow_1401.pdf)
 + [Introduction to Mongoose for Node.js and MongoDB (Pluralsight course, 1h 41m)](https://app.pluralsight.com/library/courses/mongoose-for-nodejs-mongodb/table-of-contents)
-+ [RESTful Web Services with Node.js and Express(Pluralsight course, 2h 4m)](https://app.pluralsight.com/library/courses/node-js-express-rest-web-services/table-of-contents)
-+ [RethinkDB Fundamentals(Pluralsight course, 2h 42m)](https://app.pluralsight.com/library/courses/rethinkdb-fundamentals/table-of-contents)
++ [RESTful Web Services with Node.js and Express (Pluralsight course, 2h 4m)](https://app.pluralsight.com/library/courses/node-js-express-rest-web-services/table-of-contents)
++ [RethinkDB Fundamentals (Pluralsight course, 2h 42m)](https://app.pluralsight.com/library/courses/rethinkdb-fundamentals/table-of-contents)
 
 ### CSS, D3, SVG
 
