@@ -122,10 +122,10 @@
 
 + [Exploring Personal Genomics, Dudley/Karczewski (Book)](https://www.amazon.com/Exploring-Personal-Genomics-Joel-Dudley/dp/0199644497/ref=sr_1_1?s=books&ie=UTF8&qid=1467317610&sr=1-1&keywords=exploring+personal+genomics)
 + [Universal Principles of Design, William Lidwell (Book)](https://new.vk.com/doc15891431_152053149?hash=b316e1c6fc309bbb16&dl=28aabb49a7217e1962)
++ [Visualization Analysis and Design, Tamara Munzner (Book)](https://www.amazon.com/Visualization-Analysis-Design-AK-Peters/dp/1466508914/ref=sr_1_1?ie=UTF8&qid=1467317433&sr=8-1&keywords=Visualization+Analysis+and+Design)
 + [Building React Applications with Idiomatic Redux (egghead.io course).](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
 
 ### Up next
 
-+ [Visualization Analysis and Design, Tamara Munzner (Book)](https://www.amazon.com/Visualization-Analysis-Design-AK-Peters/dp/1466508914/ref=sr_1_1?ie=UTF8&qid=1467317433&sr=8-1&keywords=Visualization+Analysis+and+Design)
 + [Visual Strategies: A Practical Guide to Graphics for Scientists and Engineers, Frankel/Depace (Book)](https://www.amazon.com/Visual-Strategies-Practical-Scientists-Engineers/dp/0300176449)
 + [The Truthful Art: Data, Charts, and Maps for Communication](https://www.amazon.com/Truthful-Art-Data-Charts-Communication/dp/0321934075/ref=pd_rhf_se_s_cp_7?ie=UTF8&dpID=51DPTSVUB1L&dpSrc=sims&preST=_SL500_SR105%2C135_&psc=1&refRID=N6VZBSSXVTM4XJJ7F9QB)
